@@ -1,4 +1,5 @@
 Executive Summary 
+
 In general, this lab is to meant to learn & practic the fundamentals of Information Systems.  It taught some background on the development of computers. It defined the different components and their purposes. And, it taught the importance of small details within major projects. 
 
 This lab also taught us how to establish a GitHub account to use for future development. 
