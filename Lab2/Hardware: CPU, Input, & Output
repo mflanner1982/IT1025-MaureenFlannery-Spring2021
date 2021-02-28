@@ -1,0 +1,3 @@
+The example of the self-check-out at the grocery story uses the CPU, Input, & Output to create the modern-day shopping experience. 
+
+The human (user) scans the item to purchase.  The bar scan code is the Input to the system.  The CPU accepts the barscan code from the items and processes the calculations accordingly.  It adds the item onto the bill of the consumer and removes this item from the stock of the store.  Then, after the User scans each item in the cart, the CPU totals the groceries and outputs the amount due.  The User enters payment.  The CPU processes the payment and outputs a receipt.  
