@@ -1,1 +1,9 @@
+Logic Gates: Truth Tables
+
+Truth tables are tables that take input and create output.  sometimes there are one-to-one tables, other times there are multiple-to-one tables. Tables discussed in this article are very basic.  They are all 1-1 or 2-1 tables, but there are much more advanced tables that can happen.  Matrix Theory was one of my favorite classes in college and I wish that I had taken more classes on the subject. 
+
+George Boole created the concept of a truth table in order to convert human reasonining into a logical form.  Using 'Yes/No' or '0/1' tables, a system can take a complex process and turn it into a simple table.  An accumulation of those tables can aggregate into a complex set of instructions.  Because of the success of George Boole's tables, this logic is now known as 'Boolean Code'.  
+
+
+
 
