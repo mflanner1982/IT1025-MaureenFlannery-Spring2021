@@ -1,1 +1,13 @@
-testing
+Hardware: ALU and the Control Unit
+
+The ALU resides within the Control Unit, which resides within the CPU.  
+
+The CPU is like the CEO of a company.  It gives directions to Control Units.  Control Units are like the Managers of the company.  The Control Units delegate specific tasks to the ALU (Arithmetic Logic Unit), which is like the Cashiers in the company.  
+
+Althought the cashiers of a company are not well-compensated or given very much respect, their work is extremely valuable and must be correct.  Like a Cashier, the ALU must be accurate and efficient.  The results created by the ALU's are output through a register for temporary storage.  
+
+The data in this temporary storage is collected by the CPU, similar to a manager tabulating profit & stock of a company, and then the cumulation of information is sent to the CPU.  The CPU, like a CEO of a company, reviews the data and handles it appropriately according to the software. 
+
+
+
+
