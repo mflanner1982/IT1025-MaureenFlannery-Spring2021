@@ -1,0 +1,3 @@
+Data Representation: Numeric Conversions
+
+Decimal, Binary, & Hexadecimal systems all provide a way for counting large amounts of data in a non-analog fashion.  The difference between these systems is their 'Mod' (short of module), which is the base number of the system.  Decimal is based around the number '10'. Binary is based around the number '2'.  And, Hexadecimal is based aound the number '16'.  
