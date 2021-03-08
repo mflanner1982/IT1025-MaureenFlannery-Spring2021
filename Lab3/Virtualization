@@ -1,0 +1,10 @@
+The types of problemsthat Virtualization solves are six major items.  
+    1. Virtualizations allows for older ('Legacy') applications to run on almost any vendor's hardware. 
+    2. Virtualization allows for the use of multiple Operating Systems to run at the same time. 
+    3. Virtualization allows for the partitioning of servers in order for several different tasks to run in multiple environments.  
+    4. Virtulizations reduces costs for the purchases of new hardware and updated (licensing) of software. 
+    5. Virtualization reduces staff needed for setup and maintenace.
+    6. Virtualization stopped 'Vendor Lock-in' and led to the development of 'Cloud Computing'
+    
+The Role that the Hypervisor plays in virtualization is that they provide multiple users access to computers for processes. It is software that divides the physca resource from the virtual environment, which divides up the resources.  In some ways, it acts as a gateway from the multiple sources of data, servers, etc, so that it flows from to and from one source. 
+
