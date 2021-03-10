@@ -8,3 +8,8 @@ The types of problemsthat Virtualization solves are six major items.
     
 The Role that the Hypervisor plays in virtualization is that they provide multiple users access to computers for processes. It is software that divides the physca resource from the virtual environment, which divides up the resources.  In some ways, it acts as a gateway from the multiple sources of data, servers, etc, so that it flows from to and from one source. 
 
+There are many differences between virtualization & cloud computing, but I believe the tangibility is the biggest difference between them.  Virtualization is a 'technology', which cloud computing is an 'environment'.  
+
+In other words, virtualization is hardware that allows processes to run in different in environments.  Virtualization can be used to create clouds. Cloud computing is the environment where those processes can run.  A cloud is a connection of virtual machines to one source.  When there are multiple virtual machines with internet access, they have the ability to become a cloud. 
+
+A network administrator could move from 'Virtualization' to 'Cloud Computing' (assuming that the administor has the resources) by combining the virtual machines together with the appropriate software. Once this software pools the VM's together, the administrator can partition them as needed and create a "self-Service Portal' for the User(s). 
