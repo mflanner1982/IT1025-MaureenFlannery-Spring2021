@@ -1,6 +1,7 @@
 Executive Summary
 
-Conclusion
+In general, this lab taught several different concepts.  First, we learned about the purpose and importance of software.  We learned about compatibility, ownership, and ability to be interpreted.  Second, we learned about Virtualization.  It is important to learn the difference between Cloud Computing and Virtualiation.  Third, we learned the very basics of Python.  We learned that it is a very intuitive language and easy to install, write, and read.  Fourth, we learned about the importance of full-immersion into a field.  Careers, internships, co-ops, clubs, etc are all excellent ways to learn in the field and create contacts with potential employers and/or co-workers. 
+
 
 Python
 
