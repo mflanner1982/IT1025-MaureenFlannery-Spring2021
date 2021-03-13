@@ -20,4 +20,4 @@ Looking at the Bureau of Labor Statistics, I see that the Computer Programming c
     When I was looking at classes to take at Tri-C to learn coding, I had originally thought I should go for the associates degree.  When I found out that several of my classes would not transfer, I changed to this program.  It would have been nice to have an associates degree, but I did not want to take basic business or English classes again.  
 
      Co-Ops / Internships
-     
+     In order to become 'co-op' ready, a student must sit through the orientation, submit a resume, apply for the placement, and sign the appropriate documents once accepted for a position.  Internships and Co-ops are a great way to learn about your field of preference, make connections with people in your potential field, and realize some personal strengths / weaknesses.  While I am a smidge too old for a position of this sort, I recently convinced my nephew to do an internship this summer. 
