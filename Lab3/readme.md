@@ -21,3 +21,6 @@ Looking at the Bureau of Labor Statistics, I see that the Computer Programming c
 
      Co-Ops / Internships
      In order to become 'co-op' ready, a student must sit through the orientation, submit a resume, apply for the placement, and sign the appropriate documents once accepted for a position.  Internships and Co-ops are a great way to learn about your field of preference, make connections with people in your potential field, and realize some personal strengths / weaknesses.  While I am a smidge too old for a position of this sort, I recently convinced my nephew to do an internship this summer. 
+
+     Industry Associations / Student Organizations
+     
