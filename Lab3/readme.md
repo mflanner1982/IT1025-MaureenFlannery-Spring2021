@@ -10,3 +10,5 @@ Interpreted Language vs. Compiled Language An interpreted language is one that r
 
 
 Career Exploration
+
+On the College Central website, I found several jobs for which I could apply.  I see that I need to better adjust my search because it is currently too vague.  Unfortunately, I am not yet ready to decide what I am looking for in a new job.  Because we are in a pandemic, I do not want to leave my current, stable job.  However, I do plan to move into development when the economy becomes more stable.  Ideally, I could stay at my current company because I have 5 years there already, but my current plan can easily change.  
