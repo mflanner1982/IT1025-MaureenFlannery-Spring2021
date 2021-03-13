@@ -19,8 +19,10 @@ Looking at the Bureau of Labor Statistics, I see that the Computer Programming c
     Working in IT, I have heard from many people that the certifications are very important.  However, whenever I have tried to find information on them, I find a lot of commercials for school claiming to teach students how to pass the tests. Unfortunately, I have had a found time finding any sort of verification that these classes are worth the money.  It is VERY helpful to know that Tri-C offers these classes and discounts the tests.  I will probably take these in the near future.  
     When I was looking at classes to take at Tri-C to learn coding, I had originally thought I should go for the associates degree.  When I found out that several of my classes would not transfer, I changed to this program.  It would have been nice to have an associates degree, but I did not want to take basic business or English classes again.  
 
-     Co-Ops / Internships
-     In order to become 'co-op' ready, a student must sit through the orientation, submit a resume, apply for the placement, and sign the appropriate documents once accepted for a position.  Internships and Co-ops are a great way to learn about your field of preference, make connections with people in your potential field, and realize some personal strengths / weaknesses.  While I am a smidge too old for a position of this sort, I recently convinced my nephew to do an internship this summer. 
+    Co-Ops / Internships
+    In order to become 'co-op' ready, a student must sit through the orientation, submit a resume, apply for the placement, and sign the appropriate documents once accepted for a position.  Internships and Co-ops are a great way to learn about your field of preference, make connections with people in your potential field, and realize some personal strengths / weaknesses.  While I am a smidge too old for a position of this sort, I recently convinced my nephew to do an internship this summer. 
 
-     Industry Associations / Student Organizations
+    Industry Associations / Student Organizations
+    The purpose of the CCDC (Collegiate Cyber Defence Competition) is to create a safe environment where students can practice creating and breaking software security.  Membership in this club would be beneficial for 3 big reasons.  First, you can put it on a resume.  Second, you can make connections with potential employers.  Third, and most importantly, you have the opportunity to learn about this field. 
+     
      
