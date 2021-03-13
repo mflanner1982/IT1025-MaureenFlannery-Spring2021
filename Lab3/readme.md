@@ -12,3 +12,7 @@ Interpreted Language vs. Compiled Language An interpreted language is one that r
 Career Exploration
 
 On the College Central website, I found several jobs for which I could apply.  I see that I need to better adjust my search because it is currently too vague.  Unfortunately, I am not yet ready to decide what I am looking for in a new job.  Because we are in a pandemic, I do not want to leave my current, stable job.  However, I do plan to move into development when the economy becomes more stable.  Ideally, I could stay at my current company because I have 5 years there already, but my current plan can easily change.  
+
+Looking at the Bureau of Labor Statistics, I see that the Computer Programming career is not as lucrative as I had hoped.  Fortunately, with my experience and education, I believe I can move into programming and then into management of programmers/ programming.  Also, I know that 'computer programmer' is an umbrella term, so there is a world of difference between people who can code in a few programs with a high school diploma vs. people who have more advanced knowledge and education.  
+
+    Certifications
