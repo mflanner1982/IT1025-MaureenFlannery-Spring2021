@@ -18,3 +18,6 @@ Looking at the Bureau of Labor Statistics, I see that the Computer Programming c
     Certifications
     Working in IT, I have heard from many people that the certifications are very important.  However, whenever I have tried to find information on them, I find a lot of commercials for school claiming to teach students how to pass the tests. Unfortunately, I have had a found time finding any sort of verification that these classes are worth the money.  It is VERY helpful to know that Tri-C offers these classes and discounts the tests.  I will probably take these in the near future.  
     When I was looking at classes to take at Tri-C to learn coding, I had originally thought I should go for the associates degree.  When I found out that several of my classes would not transfer, I changed to this program.  It would have been nice to have an associates degree, but I did not want to take basic business or English classes again.  
+
+     Co-Ops / Internships
+     
