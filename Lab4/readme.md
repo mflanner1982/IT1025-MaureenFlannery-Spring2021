@@ -26,3 +26,15 @@ Function - a relationship between 2 or more variables
       39
       >>> float(39)
       39.0
+
+
+Graphics
+Raster vs. Vector Graphics
+Raster graphics are pixelated.  This means that the image is acceptable at its original size or smaller, but it is 'pixelated' or 'fuzzy' when enlarged.  An example of this is when you zoom in on 'Google images' to better see an item. 
+Vector graphics are based on points.  It uses different points to create lines, curves, and dots in relation to each other.  They exand and contrast smoothly as a group.   An example of this is the logo on the signature of most business emails. 
+
+Lossless vs. Lossy Compression
+It is important for developers to use lossless or lossy image formats based on their work.  If you are creating an image like a logo for a website, you would want this image to be lossless, so it will be clear at any size.  If you are creating an image for a social media page (such as facebook), it is acceptable for the image to be lossy since it will be the same size or smaller on a computer or phone.  
+
+File Formats
+The similarity between JPEG, GIF, and PNG files is that they are all forms of compression.  The difference between the 3 is what they have as their advantage.  The advantage of JPEG is that it can be fine-tuned to decide the amount of pixelation acceptable to the image.  The advantage of GIF is that it is animated while remaining lossless.  The advantage of PNG is that is uses data compression to remain lossless. 
