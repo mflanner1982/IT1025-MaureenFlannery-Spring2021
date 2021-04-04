@@ -1,7 +1,6 @@
 Executive Summary
 
 link to logo
-
 https://vectr.com/mflanner/f2RSFuPhlH.svg?width=640&height=640&select=f2RSFuPhlHpage0&source=page
 
 
