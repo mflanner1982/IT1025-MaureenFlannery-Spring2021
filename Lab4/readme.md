@@ -1,5 +1,7 @@
 Executive Summary
 
+link to logo
+https://vectr.com/mflanner/f2RSFuPhlH.svg?width=640&height=640&select=f2RSFuPhlHpage0&source=page
 
 PYTHON IDLE
 The difference between the shell and the file editor in the IDLE is a command line tool that starts up with the Python Interpreter.  It handles simple, short programs.  File Editor handles larger, more-complex codes and uses highlighted text to guide the programmer.  
