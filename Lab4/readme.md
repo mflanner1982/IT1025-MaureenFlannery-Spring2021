@@ -41,3 +41,8 @@ It is important for developers to use lossless or lossy image formats based on t
 
 File Formats
 The similarity between JPEG, GIF, and PNG files is that they are all forms of compression.  The difference between the 3 is what they have as their advantage.  The advantage of JPEG is that it can be fine-tuned to decide the amount of pixelation acceptable to the image.  The advantage of GIF is that it is animated while remaining lossless.  The advantage of PNG is that is uses data compression to remain lossless. 
+
+File Properties
+For my Logo, 5 layers were required.  The first layer was a picture of my gorgeous dog. Then, I added 2 layers of green to be the background behind the words.  then, I added 2 layers of text at the top & bottom to go over the banners and show the fake company name. 
+
+I cannot find a 'Download' button on the Vectr website as the directions say.  I took a screenshot of my work, which defaults as a PNG on a Mac (722 KB).  I also saved a webarchive link (512KB).  Because of this complication, I cannot see which 'application it opens with' like the directions say.   
