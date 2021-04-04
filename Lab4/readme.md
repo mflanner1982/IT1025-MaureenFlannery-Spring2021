@@ -1,8 +1,5 @@
 Executive Summary
-
-link to logo
-https://vectr.com/mflanner/f2RSFuPhlH.svg?width=640&height=640&select=f2RSFuPhlHpage0&source=page
-
+In general, the lab was meant to make us learn and practice the basics of 3 different, yet important issues in software development.  First, we learned about the difference between hardware, software, and the relation between the two.  Next, we learned about Python and the fundamentals of its components.  Third, we learned about graphics and the importance of loss with image compression. 
 
 PYTHON IDLE
 The difference between the shell and the file editor in the IDLE is a command line tool that starts up with the Python Interpreter.  It handles simple, short programs.  File Editor handles larger, more-complex codes and uses highlighted text to guide the programmer.  
