@@ -6,3 +6,9 @@ My experience with Lucidchart was pleasant.  When I was in graduate school, we h
 Introduction to Networking
 
 Data Transmission
+
+Protocol          - 1. Set of rules to allow devices to communicate 
+Packet            - 2. Unit of data 
+IP Address        - 3. Unique identifying number 
+Packet Switching  - 4. Technology that allows packets of data to be routed based on destination address 
+DNS               - 5. Directory of IP address common names.  For example 54.239.26.214 might be the IP address of amazon.com
