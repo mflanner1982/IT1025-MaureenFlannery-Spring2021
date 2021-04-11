@@ -1,5 +1,7 @@
 Executive Summary
 
+This lab taught us to realize the importance of network hardware, software, topology, and security.  
+
 Lucidchart
 My experience with Lucidchart was pleasant.  When I was in graduate school, we had to do several projects with Access.  I didn't have any resources like these websites to guide me. (They probably existed, but I didn't know I should look for them)  I only had a textbook and the teacher.  The teacher was TERRIBLE!  He refused to answer any questions (in class or during office hours).  He felt that graduate students should be able to teach themselves, which is a ridiculous theory!!!  In the end, my experience with flowcharts was so terrible that I have avoided them for years.  Now, using Lucidchart, I was pleasantly surprised with the results. 
 
@@ -56,3 +58,4 @@ I typed "My dog's name is Boris and he's cute!" and I used 'Boris' as the Shift 
 The result gibberish and a very flat fingerprint frequency. 
 
 Brute-Force
+Brute-Force is a form of decryption where a hacker just tries all possible keys to try to decipher a code.  It relates to Kerckhoff's principle in that Kerckhoff suggests that encryption should not matter as much as the secrecy of the message. 
