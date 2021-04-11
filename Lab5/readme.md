@@ -41,4 +41,5 @@ Three daily tasks that require authentication are logging into your work PC, pay
 
 ACL is a form of Access Control that is easily understood.  It is a process where permissions are given to each user by an administrator.  It is simple, but time-consuming.  Also, management of this system becomes increasingly difficult as the size of the system grows.  RBAD is a form of Access Control that is more complicated to set up than ACL, but easier to maintain as the system grows.  Instead of an administrator assigning a person permissions like ACL, RABC gives each person a role and the role then receives access. 
 
-Ciphertext, a Public Key, and a Private key
+Ciphertext is when a data is encrypted before it is transmitted and then decrypted once it is received.  This system only works when both parties have a 'Symmetric Key Encryption'.  Public Key Encryption requires a public key and a private key.  A message has to be encrypted before it is sent using a Public Key.  Once it is received, the one who receives it can use a 'Private Key' to decrypt it.  
+, and a Private key
