@@ -26,5 +26,6 @@ Network Topologies
 
 A 'Single Point of Failure' is a an event where a computer or system of computers loses internet connection.  Generally, it is caused by a poor design with the internet distribution.  Star, Ring, and Bus topologies can all suffer from SPOF.  With a Star topology, the SPOF happens when the Hub or Switch fail.  With Ring or Bus topologies, an SPOF can happen if one or more computers in the system crash / are disconnected.  The Ring and Bus topologies have this built-in error because their design causes one computer to rely on the next. 
 
+Infrastructure topology is very similar to Star topology, but it includes wired & wireless technology.  Wireless Mesh topology is similar to Mesh Topology, but it includes wireless capabilities.  I believe the Wireless Mesh Topology is the better system because it allows for wired & wireless connection while creating several redundancies for connection points. 
 
 
