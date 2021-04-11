@@ -32,4 +32,4 @@ Network Design
 The design for my network is simple.  The Internet comes from a tower to a modem.  From the modem, the internet travels to a router.  The router projects the internet to a cloud.  The cloud provides internet to the 2 PC's and the printer.  Then, the 2 PC's connect to the printer. 
 
 NSA/CSS
-NSA's role in cybersecurity is 
+The NSA's role in cybersecurity is pretty vast.  The NSA prevents drug smuggling, illegal immigration, attacks from terrorist groups, identity theft, and illegal commerce.  Because of the internet, these crimes of identity theft, sex trafficking, terrorist group communication have become increasingly easy.  The NSA's job is to try to intercept these communications and try to prevent or stop crimes from happening.  
