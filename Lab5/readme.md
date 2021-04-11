@@ -15,3 +15,13 @@ DNS               - 5. Directory of IP address common names.  For example 54.239
 
 
 Network Hardware
+
+Both the Hub and the Switch are internal (LAN) devices that connect to the ethernet with multiple portals.  But, the Switch is 'intelligent', which means that it learn IP addresses & save it.  With this data detected & saved, the Switch can send packets only to specific ports.  This increases security and reduces unnecessary traffic (bandwidth) on a network.  
+
+There are several benefits to a Router over a Hub or a Switch.  First, a Router can reach other reach outside of the LAN.  A Router often has a Switch inside of it and it can connect to other Switches.  The Router can read IP addresses and, with this information, determine which packets to bring into its network towards its devices versus allowing some packets to move on undisturbed.  A router is a 'Gateway' to the internet.  
+
+"The Hub & Switch are used to create networks, but the Router is used to Connect to Networks" - Narator from video
+
+Network Topologies
+
+
