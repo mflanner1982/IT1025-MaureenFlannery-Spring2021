@@ -45,3 +45,10 @@ Ciphertext is when a data is encrypted before it is transmitted and then decrypt
 , and a Private key
 
 We need public Key Cryptography in order to communicate safely on the internet with sources that we have not yet met (or agreed upon symmetric key encryption with them). 
+
+Cryptography
+
+"Cryptopgraphy is a growing field" = "Fubswrsjudskb lv d jurzlqj ilhog."  I used the Ceasar Cipher for this. 
+I cannot find the 'Frequency Fingerprint Exploration' box on the LucidChart site.  I found a similar site and I used it (Cryptii.com). 
+My dog's name is Boris and he's cute! =  Pb grj'v qdph lv Erulv dqg kh'v fxwh!
+ 
