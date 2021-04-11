@@ -33,3 +33,7 @@ The design for my network is simple.  The Internet comes from a tower to a modem
 
 NSA/CSS
 The NSA's role in cybersecurity is pretty vast.  The NSA prevents drug smuggling, illegal immigration, attacks from terrorist groups, identity theft, and illegal commerce.  Because of the internet, these crimes of identity theft, sex trafficking, terrorist group communication have become increasingly easy.  The NSA's job is to try to intercept these communications and try to prevent or stop crimes from happening.  
+
+Cybersecurity and Encryption
+Imagining that I am part Amazon.com online chat, I envision that Confidentiality, Integrity, and Availability would all affect my job.  Availability is obvious because people worldwide want to be able to find help at all times of the day every day.  So, speaking to someone in Cleveland, Ohio at 6pm means that you could be talking to someone in the Phillipines at 6 am, which happened to me this week.  Confidentiality would be part of the conversation because I would have to make sure the person on the other line is the customer that he/she says he/she is.  It would be easy to using phishing schemes to gain access to the account if confidentiality is not effective.  Integrity is integral to all companies because it is important to make sure that all data for customer and for sales are up-to-date, truthful, and precise. 
+
