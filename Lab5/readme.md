@@ -49,6 +49,10 @@ We need public Key Cryptography in order to communicate safely on the internet w
 Cryptography
 
 "Cryptopgraphy is a growing field" = "Fubswrsjudskb lv d jurzlqj ilhog."  I used the Ceasar Cipher for this. 
-I cannot find the 'Frequency Fingerprint Exploration' box on the LucidChart site.  I found a similar site and I used it (Cryptii.com). 
-My dog's name is Boris and he's cute! =  Pb grj'v qdph lv Erulv dqg kh'v fxwh!
- 
+In the 'Frequency Fingerprint Exploration' box, I typed "My dog's name is Boris and he's cute!"  The result is what most people would expect. 
+
+A Polyalphabethic Cipher is similar to a Ceasar Cipher, but it has added layers.  Instead of a single shift, there are layers of shifts that are based on a single word.  Using this technique, the code flattens the Frequency Fingerprint.  
+I typed "My dog's name is Boris and he's cute!" and I used 'Boris' as the Shift Word.  
+The result gibberish and a very flat fingerprint frequency. 
+
+Brute-Force
