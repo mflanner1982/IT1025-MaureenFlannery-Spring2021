@@ -28,4 +28,8 @@ A 'Single Point of Failure' is a an event where a computer or system of computer
 
 Infrastructure topology is very similar to Star topology, but it includes wired & wireless technology.  Wireless Mesh topology is similar to Mesh Topology, but it includes wireless capabilities.  I believe the Wireless Mesh Topology is the better system because it allows for wired & wireless connection while creating several redundancies for connection points. 
 
+Network Design
+The design for my network is simple.  The Internet comes from a tower to a modem.  From the modem, the internet travels to a router.  The router projects the internet to a cloud.  The cloud provides internet to the 2 PC's and the printer.  Then, the 2 PC's connect to the printer. 
 
+NSA/CSS
+NSA's role in cybersecurity is 
