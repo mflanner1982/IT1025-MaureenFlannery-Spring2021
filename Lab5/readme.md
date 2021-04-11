@@ -43,3 +43,5 @@ ACL is a form of Access Control that is easily understood.  It is a process wher
 
 Ciphertext is when a data is encrypted before it is transmitted and then decrypted once it is received.  This system only works when both parties have a 'Symmetric Key Encryption'.  Public Key Encryption requires a public key and a private key.  A message has to be encrypted before it is sent using a Public Key.  Once it is received, the one who receives it can use a 'Private Key' to decrypt it.  
 , and a Private key
+
+We need public Key Cryptography in order to communicate safely on the internet with sources that we have not yet met (or agreed upon symmetric key encryption with them). 
