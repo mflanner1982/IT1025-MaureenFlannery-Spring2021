@@ -5,4 +5,11 @@ Internet Architecture
 Internet Protocol
 An IP Address is a unique number used to identify each device that is connected to the internet.  The original protocol called, IPv4, had a capacity for approximatel;y 4.3 billion devices.  Now, because of increased use of technology, IPv4 has reached its capacity.  Now, IPv6 exists, which is significantly larger and allows approximately 10 billion devices to communicate.   
 
-ICANN (meaning Internet Corporation for Assigned Names and Numbers) is an organization that sets the standards & protocols for Internet activity worldwide.  The ICANN board of directors changed the policy for IPv6 addresses in 2006. 
+ICANN (meaning Internet Corporation for Assigned Names and Numbers) is an organization that sets the standards & protocols for Internet activity worldwide.  The ICANN board of directors changed the policy for IPv6 addresses in 2006.
+
+TCP/IP
+The responsibility of TCP/IP is to define details of how packets travel through the internet.  It has standardized the way data is sent and received through the network.  
+
+The client-server model applies to TCP/IP similar to a phone call.  A client is similar to a caller while a server is similar to a person receiving a call.   Like a phone call, information can travel both ways once the connection is established and information stops flowing once one person terminates the connection. 
+
+
