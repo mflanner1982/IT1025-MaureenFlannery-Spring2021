@@ -12,4 +12,8 @@ The responsibility of TCP/IP is to define details of how packets travel through 
 
 The client-server model applies to TCP/IP similar to a phone call.  A client is similar to a caller while a server is similar to a person receiving a call.   Like a phone call, information can travel both ways once the connection is established and information stops flowing once one person terminates the connection. 
 
+Layers are important to changing technology because each layer of a stack performa a specific function.  They interact with the layer above and below itself.  This is similar to a post office in the idea that there is a person who sends the package, then there is the person who transfers it, and then there is the person who receives it.  The first and third person do not interact.  Using the 2nd person as an intermediary, the transition has layers. 
+
+
+
 
