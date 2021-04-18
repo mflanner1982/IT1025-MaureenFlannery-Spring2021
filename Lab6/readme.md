@@ -18,6 +18,10 @@ Internet Security
 
 HTTP is hypertext transfer protocol and it is used for viewing web pages on the internet.  All information is sent across the internet in clear text, which makes it vulnerable to attacks.  HTTPS is a secured hypertext transfer protocol.  This means that it is encrypted data sent across the internet.  It can secure data in one of two ways.  The first way, HTTPS can use SSL, which stands for Secure Sockets Layer). It used a public key to encrypt data and communicates with a website after a website can confirm that they have obtained an SSL Certificate.  The second way, HTTPS can use TLS, which stands for Transport Layer Security.  It is based on the same ideology of SSL.  It uses an authorized server, client, and encrypted data. 
 
+Securing Your Web Browser
+You should secure your browser for a plethora of reasons. Any data that is hold on your device can easily be stolen, copied, and/or altered.  When a device is purchased, there is often software already installed on it.  Then, a user can add software as desired.  Also, most software requires updates.  With these three concepts, a device is left open to attacks.  In addition to this, some software can use a third-party's technology without a user knowing this.  In order to increase functionality, software often turns off some security features.  With these many vulnerabilities available, a user is left open to a trojen horse, worm, malware, etc. 
+
+
 
 
 
