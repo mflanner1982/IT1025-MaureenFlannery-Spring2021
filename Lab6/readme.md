@@ -22,6 +22,13 @@ Securing Your Web Browser
 You should secure your browser for a plethora of reasons. Any data that is hold on your device can easily be stolen, copied, and/or altered.  When a device is purchased, there is often software already installed on it.  Then, a user can add software as desired.  Also, most software requires updates.  With these three concepts, a device is left open to attacks.  In addition to this, some software can use a third-party's technology without a user knowing this.  In order to increase functionality, software often turns off some security features.  With these many vulnerabilities available, a user is left open to a trojen horse, worm, malware, etc. 
 
 
+------------------------------------------------------------------------------------------------
+section 2 
+------------------------------------------------------------------------------------------------
+
+Components of a URL
+
+
 
 
 
