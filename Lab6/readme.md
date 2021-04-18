@@ -14,6 +14,8 @@ The client-server model applies to TCP/IP similar to a phone call.  A client is 
 
 Layers are important to changing technology because each layer of a stack performa a specific function.  They interact with the layer above and below itself.  This is similar to a post office in the idea that there is a person who sends the package, then there is the person who transfers it, and then there is the person who receives it.  The first and third person do not interact.  Using the 2nd person as an intermediary, the transition has layers. 
 
+Internet Security
+
 
 
 
