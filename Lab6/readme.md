@@ -26,6 +26,14 @@ You should secure your browser for a plethora of reasons. Any data that is hold 
 Internet Programming
 TimBerners-Lee is the creator of the world wide web and the leader of W3C.  He created W3C to create high-quality, unified standards across the internet. 
 The standard of 'Web Design and Applications' is important because it unifies the technologies available to developers to make websites.  It makes the creation easier and the merging cleaner.  Also, it is very important for the purpose of accessibility to individuals with disabilities. 
+
+HTML5 and CSS
+The purpose of HTML5 technology is to create websites.  Is standardizes the language used for development.  
+The purpose of CSS technology is to "control the layout of multiple web pages".  It helps to establish which website is the parent and which is the child within a site.  Also establishes, which websites are internal and external on a site.  
+These two technologies makes it easier for developers to establish what each part of a website goes where, when, how, and why. 
+When creating my webpage, the approach I took was simple, but diverse.  I didn't concern myself with the content of the page as much as the different tools that can be used to create the page. 
+
+
 ------------------------------------------------------------------------------------------------
 
 Components of a URL
