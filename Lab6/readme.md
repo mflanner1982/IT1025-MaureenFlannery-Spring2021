@@ -37,6 +37,12 @@ HTML is a language meant for creating web pages.  It is a specific syntax with r
 ------------------------------------------------------------------------------------------------
 
 Components of a URL
+scheme - type of address; usually HTTP or HTTPS
+domain - name of company / organization running the website; usually something like amazon, facebook, or wikipedia
+top level domain - specifies the type of entity that is running the website; usually .com, .gov, .org, .edu, or .fr
+default page - page that appears when a user does not enter a specific file path for a website; usually the homepage of a website
+parameters - provides information to get to a page of a website; starts with a '?'
+anchor - provides information to get to specific part of a page of a website; starts with a '#'
 
 
 
