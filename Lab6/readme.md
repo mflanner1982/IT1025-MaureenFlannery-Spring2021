@@ -23,7 +23,9 @@ You should secure your browser for a plethora of reasons. Any data that is hold 
 
 
 ------------------------------------------------------------------------------------------------
-section 2 
+Internet Programming
+TimBerners-Lee is the creator of the world wide web and the leader of W3C.  He created W3C to create high-quality, unified standards across the internet. 
+
 ------------------------------------------------------------------------------------------------
 
 Components of a URL
