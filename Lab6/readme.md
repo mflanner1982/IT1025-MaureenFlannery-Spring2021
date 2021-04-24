@@ -25,7 +25,7 @@ You should secure your browser for a plethora of reasons. Any data that is hold 
 ------------------------------------------------------------------------------------------------
 Internet Programming
 TimBerners-Lee is the creator of the world wide web and the leader of W3C.  He created W3C to create high-quality, unified standards across the internet. 
-
+The standard of 'Web Design and Applications' is important because it unifies the technologies available to developers to make websites.  It makes the creation easier and the merging cleaner.  Also, it is very important for the purpose of accessibility to individuals with disabilities. 
 ------------------------------------------------------------------------------------------------
 
 Components of a URL
