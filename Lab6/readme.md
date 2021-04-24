@@ -21,8 +21,6 @@ HTTP is hypertext transfer protocol and it is used for viewing web pages on the 
 Securing Your Web Browser
 You should secure your browser for a plethora of reasons. Any data that is hold on your device can easily be stolen, copied, and/or altered.  When a device is purchased, there is often software already installed on it.  Then, a user can add software as desired.  Also, most software requires updates.  With these three concepts, a device is left open to attacks.  In addition to this, some software can use a third-party's technology without a user knowing this.  In order to increase functionality, software often turns off some security features.  With these many vulnerabilities available, a user is left open to a trojen horse, worm, malware, etc. 
 
-
-------------------------------------------------------------------------------------------------
 Internet Programming
 TimBerners-Lee is the creator of the world wide web and the leader of W3C.  He created W3C to create high-quality, unified standards across the internet. 
 The standard of 'Web Design and Applications' is important because it unifies the technologies available to developers to make websites.  It makes the creation easier and the merging cleaner.  Also, it is very important for the purpose of accessibility to individuals with disabilities. 
@@ -33,6 +31,8 @@ The purpose of CSS technology is to "control the layout of multiple web pages". 
 These two technologies makes it easier for developers to establish what each part of a website goes where, when, how, and why. 
 When creating my webpage, the approach I took was simple, but diverse.  I didn't concern myself with the content of the page as much as the different tools that can be used to create the page. 
 
+HTML and XML
+HTML is a language meant for creating web pages.  It is a specific syntax with rules for defining what items go where and how. XML is a language for creating, storing, & transporting data. XML does not do anything other than store the data that it is given by the user. 
 
 ------------------------------------------------------------------------------------------------
 
