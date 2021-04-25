@@ -1,4 +1,5 @@
 Executive Summary 
+The purpose of this lab is to discover the different skills and languages used for web development.  While I understood everything I read in the articles or watched in the videos, I was thoroughly confused how to do the 3rd section of this lab.  (Maybe things are different for me because I am using a Mac instead of a PC).  I tried to do what I could to complete this lab as much as I could.  
 
 Internet Architecture
 
