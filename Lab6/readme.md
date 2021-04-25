@@ -35,8 +35,6 @@ When creating my webpage, the approach I took was simple, but diverse.  I didn't
 HTML and XML
 HTML is a language meant for creating web pages.  It is a specific syntax with rules for defining what items go where and how. XML is a language for creating, storing, & transporting data. XML does not do anything other than store the data that it is given by the user. 
 
-------------------------------------------------------------------------------------------------
-
 Components of a URL
 scheme - type of address; usually HTTP or HTTPS
 domain - name of company / organization running the website; usually something like amazon, facebook, or wikipedia
