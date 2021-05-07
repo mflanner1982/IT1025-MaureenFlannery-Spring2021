@@ -13,6 +13,8 @@ A Class is a 'blueprint for an object'.  It characterizes a set of objects.  An 
 
 Object Oriented Concepts
 
+The Instantiated objects of a class are any attributes that the class has defined to it.  For example, if a class existed for 'IT Department', the 'developers', 'testers', and 'business analysts' would all Objects that have the attribute of being an employee of the IT department.  
 
+Inheritance in OOP is when a class is established and all of the objects within in have the class' attributes.  For example, there are 9 children in my family.  The Class is 'Nuclear Family' and the attribute of the group is that every items has the same last name (Flannery).  The Objects are 'boys' and 'girls'.  Again, these objects all share the same attribute, the last name 'Flannery'. 
 
-
+Abstraction is the concept of showing essential information & hiding non-essential information.  Encapsulation is the concept of packaging data and functions together. 
