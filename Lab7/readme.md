@@ -11,4 +11,8 @@ The attribute of the Shark class is 'Shark' and 'Sammy'.  The methods of the Sha
 
 A Class is a 'blueprint for an object'.  It characterizes a set of objects.  An Object is an item within a Class.  It is 'manifested in the program'.  To 'Initiate an Object from a Class' means to set a definition to an object that is within a class. 
 
+Object Oriented Concepts
+
+
+
 
