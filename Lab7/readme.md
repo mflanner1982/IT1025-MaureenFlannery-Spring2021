@@ -1,5 +1,7 @@
 Executive Summary
 
+In this lab, we learned the importance of using zip files, the different types of software development, and some important concepts in object oriented programming. 
+
 File Compression
 
 The purpose of File Compression is to preserve space.  It is a tool that can be used to to take multiple files and abbreviate them into one small folder.  This is useful for file tranmission because it is easier to email (or upload) one zipped folder instead of several files.  
