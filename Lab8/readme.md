@@ -26,10 +26,24 @@ SQL Injections
 
 SQL injections are malicious code in SQL statements.  The most simple way to reduce security threats to a Database is simply to limit access to the Database.  At my office, I use SQL everyday, but I only have permissions to view information in limited amounts.  Making sure that permissions, access, and data available to people (employee or not) should prohibit unwanted attacks.  
 
-Ethical andLegal Implications
+Ethical and Legal Implications
 
 The purpose of a 'Code of Ethics' is to create a guideline for acceptable behaviors.  The ACM created a code for computing discipline because there are new ethical waters that have created questions with the development of technology. 
 
 There are differences between a 'Code of Ethics' and an 'AUP'.  A code of ethics is voluntary.  Agreement to adhere to the rules has very little consequence except possibly being removed from a group.  An AUP is mandatory to agree to it before you can use any tools owned by an organization.  If you break the rules, your permissions to these tools can be revoked. 
 
 I chose to read the Code of Conduct located on my employers intranet.  There is really nothing worth noting.  It is basically standard.  We are not allowed on inappropriate websites and should not be surfing the web all day.  Really, the code of conduct does not surprise me at all.  
+
+The purpose of WIPO is "to lead the development of a balanced and effective international IP System".  They create balance, incident disputes, and cooperation between countries with their IP's.  
+
+It might be important to copyright the SVG image that I had created because a copyright patent is required to in order to sue someone for using or abusing this logo (assuming that this logo is not already copyrighted).  
+
+If the SVG image that I had created became an item that identifies a source of good or services, the role of that trademark to define the intellectual property is . . . well, not very good.  Other than the name of the company, there is a picture of a chocolate lab.  I suppose these are both very generic items.  (I am not artistic).  
+
+Information collection
+
+COPPA (Children's Online Privacy Protection Act) prohibits a website from collecting information from a user that is under 13 years old without a parents' consent. 
+
+FERPA (Family Educational Rights and Privacy Act) prohibits the distribution of any students records to anyone other than a legal guardian until the child turns 18 or moves on to higher education.  
+
+HIPAA (Health Insurance Portability and Accountability Act) prohibits the distributions of any medical records or identifiable information of an individual.  Sharing such information requires a specific permission from the individual.  
