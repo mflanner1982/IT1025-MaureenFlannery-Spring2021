@@ -26,4 +26,10 @@ SQL Injections
 
 SQL injections are malicious code in SQL statements.  The most simple way to reduce security threats to a Database is simply to limit access to the Database.  At my office, I use SQL everyday, but I only have permissions to view information in limited amounts.  Making sure that permissions, access, and data available to people (employee or not) should prohibit unwanted attacks.  
 
+Ethical andLegal Implications
 
+The purpose of a 'Code of Ethics' is to create a guideline for acceptable behaviors.  The ACM created a code for computing discipline because there are new ethical waters that have created questions with the development of technology. 
+
+There are differences between a 'Code of Ethics' and an 'AUP'.  A code of ethics is voluntary.  Agreement to adhere to the rules has very little consequence except possibly being removed from a group.  An AUP is mandatory to agree to it before you can use any tools owned by an organization.  If you break the rules, your permissions to these tools can be revoked. 
+
+I chose to read the Code of Conduct located on my employers intranet.  There is really nothing worth noting.  It is basically standard.  We are not allowed on inappropriate websites and should not be surfing the web all day.  Really, the code of conduct does not surprise me at all.  
