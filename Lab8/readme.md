@@ -22,5 +22,8 @@ The first tables that I will choose are 'Customers' to 'Orders'. The 'Customers'
 
 The second tables that I will choose are 'Employees' to 'Orders'. The 'Employees' table has 'EmployeeID' as the Primary Key.  The 'Orders' table has 'OrderID' as the Primary Key.  The two tables share 'EmployeeID' as the Foreign Key. 
 
+SQL Injections
+
+SQL injections are malicious code in SQL statements.  The most simple way to reduce security threats to a Database is simply to limit access to the Database.  At my office, I use SQL everyday, but I only have permissions to view information in limited amounts.  Making sure that permissions, access, and data available to people (employee or not) should prohibit unwanted attacks.  
 
 
