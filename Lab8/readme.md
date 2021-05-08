@@ -22,3 +22,5 @@ The first tables that I will choose are 'Customers' to 'Orders'. The 'Customers'
 
 The second tables that I will choose are 'Employees' to 'Orders'. The 'Employees' table has 'EmployeeID' as the Primary Key.  The 'Orders' table has 'OrderID' as the Primary Key.  The two tables share 'EmployeeID' as the Foreign Key. 
 
+
+
